@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 16px;">
-  <img src="img/profile.jpeg" alt="Profile Picture" width="150" height="150" />
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="150" alt="Hacker Cat GIF" />
+  <img src="img/profile.jpeg" alt="Profile Picture" height="150" />
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Hacker Cat GIF" height="150" />
 </div>
 
 <p align="center">
@@ -10,7 +10,6 @@
   🏛️ <span style="color:#388E3C;">Universidad Peruana de Ciencias Aplicadas (UPC)</span><br>
   🎓 <strong>7th semester</strong>
 </p>
-
 
 ---
 

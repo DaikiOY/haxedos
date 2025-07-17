@@ -7,7 +7,7 @@
 
 <p align="center">
   📚 <strong>Software Engineering Student</strong><br>
-  🏛️ <span style="color:#388E3C;">Universidad Peruana de Ciencias Aplicadas (UPC)</span><br>
+  🏛️ <strong><span style="color:#388E3C;">Universidad Peruana de Ciencias Aplicadas (UPC)</span><strong><br>
   🎓 <strong>7th semester</strong>
 </p>
 

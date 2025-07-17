@@ -3,7 +3,7 @@
 <h1 align="center" style="margin-bottom: 8px;">👨‍💻 Daiki Oscar Oshiro Yamashita</h1>
 
 <p align="center">
-  <img src="img/profile.jpeg" alt="Banner de perfil" width="100%" style="max-height: 250px; object-fit: cover;" />
+  <img src="img/profile.jpeg" alt="Imagen de perfil" width="200" height="200" />
 </p>
 
 <p align="center">

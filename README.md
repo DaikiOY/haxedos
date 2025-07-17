@@ -1,13 +1,9 @@
 ## 👨‍💻 About Me
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="img/profile.jpeg" alt="Profile Picture" width="150" height="150" /></td>
-      <td><img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="150" alt="Hacker Cat GIF" /></td>
-    </tr>
-  </table>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 16px;">
+  <img src="img/profile.jpeg" alt="Profile Picture" width="150" height="150" />
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="150" alt="Hacker Cat GIF" />
+</div>
 
 <p align="center">
   📚 <strong>Software Engineering Student</strong><br>

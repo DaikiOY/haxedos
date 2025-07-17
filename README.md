@@ -12,6 +12,10 @@
   🎓 <strong>7th semester</strong>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="300" alt="Hacker Cat GIF" />
+</p>
+
 ---
 
 ### ℹ️ Personal Information
@@ -79,15 +83,28 @@ Continue learning and growing as a developer by taking on new challenges that al
 
 If you'd like to collaborate or chat about technology, feel free to reach out!
 
-<p align="center">
+<div align="center">
 
-| Detail             | Information                                      |
-|--------------------|--------------------------------------------------|
-| 📧 Personal Email  | daikioshiro@gmail.com                            |
-| 💻 GitHub          | [github.com/DaikiOY](https://github.com/DaikiOY) |
-| 📱 Phone           | +51 977 414 565                                  |
+<table>
+  <tr>
+    <th>Detail</th>
+    <th>Information</th>
+  </tr>
+  <tr>
+    <td>📧 Personal Email</td>
+    <td>daikioshiro@gmail.com</td>
+  </tr>
+  <tr>
+    <td>💻 GitHub</td>
+    <td><a href="https://github.com/DaikiOY">github.com/DaikiOY</a></td>
+  </tr>
+  <tr>
+    <td>📱 Phone</td>
+    <td>+51 977 414 565</td>
+  </tr>
+</table>
 
-</p>
+</div>
 
 
 

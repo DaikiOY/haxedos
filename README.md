@@ -1,9 +1,12 @@
 ## 👨‍💻 About Me
 
-<h1 align="center" style="margin-bottom: 8px;">🧑‍💻 Daiki Oscar Oshiro Yamashita</h1>
-
 <p align="center">
-  <img src="img/profile.jpeg" alt="Profile Picture" width="200" height="200" />
+  <table>
+    <tr>
+      <td><img src="img/profile.jpeg" alt="Profile Picture" width="150" height="150" /></td>
+      <td><img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="150" alt="Hacker Cat GIF" /></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -12,9 +15,6 @@
   🎓 <strong>7th semester</strong>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="300" alt="Hacker Cat GIF" />
-</p>
 
 ---
 

@@ -3,7 +3,7 @@
 <h1 align="center" style="margin-bottom: 8px;">👨‍💻 Daiki Oscar Oshiro Yamashita</h1>
 
 <p align="center">
-  <img src="img/profile.jpeg" alt="Banner de perfil" width="100%" />
+  <img src="img/profile.jpeg" alt="Banner de perfil" width="100%" style="max-height: 250px; object-fit: cover;" />
 </p>
 
 <p align="center">
@@ -28,39 +28,41 @@
 
 ### 🧠 Tecnologías y conocimientos
 
-<h3 align="center">💻 Lenguajes y Tecnologías</h3>
+<h2 align="center">💻 Lenguajes y Tecnologías</h2>
 
 <p align="center">
-  <img src="img/javascript.png" alt="JavaScript" width="40"/>
-  <img src="img/python.webp" alt="Python" width="40"/>
-  <img src="img/c.jpg" alt="C#" width="40"/>
-  <img src="img/c++.png" alt="C++" width="40"/>
+  <img src="img/html.png" alt="HTML" width="80"/>
+  <img src="img/css.svg" alt="CSS" width="80"/>
+  <img src="img/javascript.png" alt="JavaScript" width="80"/>
+  <img src="img/python2.png" alt="Python" width="80"/>
+  <img src="img/c2.png" alt="C#" width="80"/>
+  <img src="img/c++.png" alt="C++" width="80"/>
 </p>
 
-<h3 align="center">🌐 Desarrollo Web</h3>
+<h2 align="center">🌐 Desarrollo Web</h2>
 
 <p align="center">
-  <img src="img/vue.webp" alt="Vue.js" width="40"/>
-  <img src="img/angular.png" alt="Angular" width="40"/>
-  <img src="img/Node.svg" alt="Node.js" width="40"/>
-  <img src="img/net.png" alt=".NET" width="40"/>
-  <img src="img/springboot.png" alt="Spring Boot" width="40"/>
+  <img src="img/vue2.png" alt="Vue.js" width="80"/>
+  <img src="img/angular2.png" alt="Angular" width="80"/>
+  <img src="img/node2.jpg" alt="Node.js" width="80"/>
+  <img src="img/net.png" alt=".NET" width="80"/>
+  <img src="img/springboot2.png" alt="Spring Boot" width="80"/>
 </p>
 
-<h3 align="center">🗃️ Bases de Datos</h3>
+<h2 align="center">🗃️ Bases de Datos</h2>
 
 <p align="center">
-  <img src="img/mysql.png" alt="MySQL" width="40"/>
+  <img src="img/mysql2.png" alt="MySQL" width="80"/>
 </p>
 
-<h3 align="center">🧰 Herramientas</h3>
+<h2 align="center">🧰 Herramientas</h2>
 
 <p align="center">
-  <img src="img/github.png" alt="GitHub" width="40"/>
-  <img src="img/visualstudiocode.jpg" alt="VS Code" width="40"/>
-  <img src="img/visualstudio.png" alt="Visual Studio" width="40"/>
-  <img src="img/intellij.png" alt="IntelliJ IDEA" width="40"/>
+  <img src="img/github2.png" alt="GitHub" width="80"/>
+  <img src="img/visualstudio2.png" alt="VS Code" width="80"/>
+  <img src="img/intellij2.png" alt="IntelliJ IDEA" width="80"/>
 </p>
+
 
 
 ### 🚀 Objetivo

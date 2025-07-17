@@ -16,23 +16,24 @@
 
 ### 👤 Información Personal
 
-🔵 **Nombre:** Daiki Oscar Oshiro Yamashita
+<div align="center">
 
-🟢 **Edad:** 23 años
+🔵 <strong>Nombre:</strong> Daiki Oscar Oshiro Yamashita  
+🟢 <strong>Edad:</strong> 23 años  
+🟡 <strong>Ubicación:</strong> Lima, Perú  
+🟤 <strong>Idiomas:</strong> 🇪🇸 Español (Nativo) · 🇺🇸 Inglés (Avanzado)  
+🔵 <strong>Intereses:</strong> Desarrollo web
 
-🟡 **Ubicación:** Lima, Perú
+</div>
 
-🟤 **Idiomas:** 🇪🇸 Español (Nativo) · 🇺🇸 Inglés (Avanzado)
-
-🔵 **Intereses:** Desarrollo web
 
 ### 🧠 Tecnologías y conocimientos
 
 <h2 align="center">💻 Lenguajes y Tecnologías</h2>
 
 <p align="center">
-  <img src="img/html.png" alt="HTML" width="80"/>
-  <img src="img/css.svg" alt="CSS" width="80"/>
+  <img src="img/html3.png" alt="HTML" width="80"/>
+  <img src="img/css3.webp" alt="CSS" width="80"/>
   <img src="img/javascript.png" alt="JavaScript" width="80"/>
   <img src="img/python2.png" alt="Python" width="80"/>
   <img src="img/c2.png" alt="C#" width="80"/>
@@ -44,9 +45,9 @@
 <p align="center">
   <img src="img/vue2.png" alt="Vue.js" width="80"/>
   <img src="img/angular2.png" alt="Angular" width="80"/>
-  <img src="img/node2.jpg" alt="Node.js" width="80"/>
+  <img src="img/node3.png" alt="Node.js" width="80"/>
   <img src="img/net.png" alt=".NET" width="80"/>
-  <img src="img/springboot2.png" alt="Spring Boot" width="80"/>
+  <img src="img/springboot3.svg" alt="Spring Boot" width="80"/>
 </p>
 
 <h2 align="center">🗃️ Bases de Datos</h2>
@@ -64,7 +65,6 @@
 </p>
 
 
-
 ### 🚀 Objetivo
 
 Continuar aprendiendo y creciendo como desarrollador, enfrentando nuevos desafíos que me permitan aplicar mis conocimientos en proyectos reales y de impacto. Me entusiasma formar parte de equipos donde pueda aportar y aprender al mismo tiempo.
@@ -73,9 +73,27 @@ Continuar aprendiendo y creciendo como desarrollador, enfrentando nuevos desafí
 
 Si deseas colaborar o conversar sobre tecnología, ¡no dudes en contactarme!
 
-| Detalle           | Información                                              |
-|-------------------|----------------------------------------------------------|
-| 📧 Correo personal | daikioshiro@gmail.com                                   |
-| 💻 GitHub         | [github.com/DaikiOY](https://github.com/DaikiOY)         |
-| 📱 Celular        | +51 977 414 565                                         |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Detalle</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>📧 Correo personal</td>
+    <td>daikioshiro@gmail.com</td>
+  </tr>
+  <tr>
+    <td>💻 GitHub</td>
+    <td><a href="https://github.com/DaikiOY">github.com/DaikiOY</a></td>
+  </tr>
+  <tr>
+    <td>📱 Celular</td>
+    <td>+51 977 414 565</td>
+  </tr>
+</table>
+
+</div>
+
 

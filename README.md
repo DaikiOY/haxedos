@@ -3,6 +3,10 @@
 <h1 align="center" style="margin-bottom: 8px;">👨‍💻 Daiki Oscar Oshiro Yamashita</h1>
 
 <p align="center">
+  <img src="img/profile.jpeg" alt="Foto de perfil" width="200" />
+</p>
+
+<p align="center">
   📚 <strong>Estudiante de Ingeniería de Software</strong><br>
   <span style="color:#388E3C;">Universidad Peruana de Ciencias Aplicadas (UPC)</span><br>
   🎓 <strong>7.º ciclo</strong>
